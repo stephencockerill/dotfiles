@@ -82,7 +82,7 @@ au BufNewFile,BufRead *.txt
     \ set fileformat=unix |
 
 " js/html/css indentation
-au BufNewFile,BufRead *.js, *.html, *.css
+au BufNewFile,BufRead *.js,*.html,*.css
     \ set tabstop=2 |
     \ set softtabstop=2 |
     \ set shiftwidth=2 |
